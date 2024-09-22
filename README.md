@@ -8,5 +8,5 @@ Feito para praticar os codigos
 <li>&lt;footer>Para definir o final do codigo</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/71f80620-27a6-43e4-870d-931ad0b9fa7b)
+![image](https://github.com/user-attachments/assets/dd4ed808-79d0-4d99-a66d-d0d34bc05a78)
 ![image](https://github.com/user-attachments/assets/f9b13950-71e9-41fd-a404-97b045286d45)
